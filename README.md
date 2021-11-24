@@ -21,7 +21,7 @@
 <a href="https://instagram.com/afianavro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afianavro" height="30" width="40" /></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?MdWahiduzzamanEmon=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MdWahiduzzamanEmon)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h3 align="left">Languages and Tools:</h3>
