@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdwahiduzzamanemon&label=Profile%20views&color=0e75b6&style=flat" alt="mdwahiduzzamanemon" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mdwemon" target="blank"><img src="https://img.shields.io/twitter/follow/mdwemon?logo=twitter&style=for-the-badge" alt="mdwemon" /></a> </p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="md-wahiduzzaman-emon-51b559173" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/md-wahiduzzaman-emon-51b559173?trk=profile-badge">Md Wahiduzzaman Emon</a></div>
               
 
 - 🌱 I’m currently fousing on Frontend-Developnent
