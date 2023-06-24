@@ -3,10 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdwahiduzzamanemon&label=Profile%20views&color=0e75b6&style=flat" alt="mdwahiduzzamanemon" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/b456dd8c-63a5-4990-85e5-f99e392d2937.svg)](https://wakatime.com/@b456dd8c-63a5-4990-85e5-f99e392d2937)
+
 <p align="left"> <a href="https://twitter.com/mdwemon" target="blank"><img src="https://img.shields.io/twitter/follow/mdwemon?logo=twitter&style=for-the-badge" alt="mdwemon" /></a> </p>
               
 
-<!-- - 🌱 I’m currently fousing on Frontend-Developnent -->
+<!-- - 🌱 I’m currently focusing on Frontend-Development -->
 
 - 💬 Ask me **Anything**
 
@@ -22,9 +24,7 @@
 <a href="https://instagram.com/afianavro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afianavro" height="30" width="40" /></a>
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/b456dd8c-63a5-4990-85e5-f99e392d2937.svg)](https://wakatime.com/@b456dd8c-63a5-4990-85e5-f99e392d2937)
-
-<a href="https://stackexchange.com/users/22663769/md-wahiduzzaman-emon"><img src="https://stackexchange.com/users/flair/22663769.png" width="208" height="58" alt="profile for Md Wahiduzzaman Emon on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Md Wahiduzzaman Emon on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://stackexchange.com/users/22663769/md-wahiduzzaman-emon"><img src="https://stackexchange.com/users/flair/22663769.png" width="208" height="58" alt=" profile for Md Wahiduzzaman Emon on Stack Exchange, a network of free, community-driven Q&amp;A sites" title=" profile for Md Wahiduzzaman Emon on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
               
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MdWahiduzzamanEmon&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
