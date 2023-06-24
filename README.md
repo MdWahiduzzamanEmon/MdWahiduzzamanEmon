@@ -25,14 +25,14 @@
 <a href="https://stackexchange.com/users/22663769/md-wahiduzzaman-emon"><img src="https://stackexchange.com/users/flair/22663769.png" width="208" height="58" alt="profile for Md Wahiduzzaman Emon on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Md Wahiduzzaman Emon on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
               
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MdWahiduzzamanEmon)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MdWahiduzzamanEmon&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/MdWahiduzzamanEmon">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MdWahiduzzamanEmon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MdWahiduzzamanEmon&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MdWahiduzzamanEmon&layout=compact&langs_count=8&theme=algolia&include_all_commits=true"/>
 </a>
 </p>
 
