@@ -35,7 +35,6 @@
 <a href="https://github.com/MdWahiduzzamanEmon">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MdWahiduzzamanEmon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&show=reviews"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MdWahiduzzamanEmon&layout=compact&langs_count=15&theme=algolia&include_all_commits=true&count_private=true&show=reviews"/>
-  <img height="180em" src="github-readme-stats.vercel.app/api/wakatime?username=MdWahiduzzamanEmon&layout=compact&langs_count=15&theme=algolia&include_all_commits=true&count_private=true&show=reviews"/>
 </a>
 </p>
 
@@ -44,7 +43,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MdWahiduzzamanEmon&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zaman_emon)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zaman_emon&layout=compact&theme=algolia&include_all_commits=true&count_private=true&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
