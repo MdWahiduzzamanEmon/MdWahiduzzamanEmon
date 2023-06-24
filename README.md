@@ -22,6 +22,8 @@
 <a href="https://instagram.com/afianavro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afianavro" height="30" width="40" /></a>
 </p>
 
+[![wakatime](https://wakatime.com/badge/user/b456dd8c-63a5-4990-85e5-f99e392d2937.svg)](https://wakatime.com/@b456dd8c-63a5-4990-85e5-f99e392d2937)
+
 <a href="https://stackexchange.com/users/22663769/md-wahiduzzaman-emon"><img src="https://stackexchange.com/users/flair/22663769.png" width="208" height="58" alt="profile for Md Wahiduzzaman Emon on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Md Wahiduzzaman Emon on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
               
 
