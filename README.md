@@ -23,8 +23,6 @@
 </p>
 
 <a href="https://stackexchange.com/users/22663769/md-wahiduzzaman-emon"><img src="https://stackexchange.com/users/flair/22663769.png" width="208" height="58" alt="profile for Md Wahiduzzaman Emon on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Md Wahiduzzaman Emon on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="md-wahiduzzaman-emon-51b559173" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/md-wahiduzzaman-emon-51b559173?trk=profile-badge">Md Wahiduzzaman Emon</a></div>
               
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MdWahiduzzamanEmon)](https://github.com/ryo-ma/github-profile-trophy)
