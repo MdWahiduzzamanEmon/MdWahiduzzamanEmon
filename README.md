@@ -38,7 +38,7 @@
 <a href="https://github.com/MdWahiduzzamanEmon">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MdWahiduzzamanEmon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&show=reviews"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MdWahiduzzamanEmon&layout=compact&langs_count=15&theme=algolia&include_all_commits=true&count_private=true&show=reviews"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdWahiduzzamanEmon&theme=algolia" width="100%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdWahiduzzamanEmon&theme=algolia" width="900"/>
 </a>
 </p>
 
